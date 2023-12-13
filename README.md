@@ -33,3 +33,27 @@ En conclusión, Autodesk Maya representa un claro ejemplo de hibridación en el 
 **Referencias:**
 - Manovich, L. (2013). *El Software Toma el Mando*. Bloomsbury Academic.
 
+
+# Discord: Una Perspectiva de Hibridación Digital
+
+En el mundo contemporáneo, la tecnología ha llevado a cabo cambios significativos en la forma en que nos comunicamos y nos conectamos en línea. Una aplicación que destaca en este panorama es Discord, una plataforma de chat y voz que ha experimentado una hibridación única en la convergencia de diferentes medios y funciones digitales. En este ensayo, exploraremos la aplicación Discord a la luz del concepto de hibridación presentado por Lev Manovich en su obra "El software toma el mando".
+
+## Hibridación según Manovich
+
+Manovich propone que la hibridación se refiere a la mezcla de diferentes formas de medios y funciones dentro de una sola plataforma o aplicación. En el contexto de Discord, esta hibridación se manifiesta en su capacidad para integrar chat de texto, voz y video en un entorno unificado. La aplicación se convierte así en un espacio híbrido donde los usuarios pueden interactuar de diversas maneras, creando una experiencia única y multifacética.
+
+## Discord: Más que un simple chat
+
+Discord comenzó como una plataforma diseñada específicamente para gamers, pero su éxito radica en su capacidad para evolucionar y adaptarse a las necesidades cambiantes de los usuarios. La aplicación ha trascendido su propósito original, convirtiéndose en un espacio no solo para jugadores, sino también para comunidades enteras que comparten intereses diversos. Este cambio demuestra la capacidad de Discord para hibridar diferentes comunidades en un solo espacio digital.
+
+## Convergencia de Medios
+
+La convergencia de medios, otro concepto clave de Manovich, se manifiesta en Discord a través de la integración de funciones de chat de texto, voz y video. Los usuarios pueden intercambiar mensajes escritos, unirse a salas de voz para conversaciones en tiempo real o incluso realizar videollamadas, todo dentro de la misma aplicación. Esta convergencia rompe las barreras tradicionales entre los diferentes medios de comunicación, ofreciendo a los usuarios una experiencia integral.
+
+## Personalización y Hibridación Social
+
+Discord no solo se limita a la hibridación de medios, sino que también permite la hibridación social a través de la personalización de servidores. Los usuarios pueden crear servidores personalizados según sus necesidades, integrando canales de texto y voz para satisfacer diversos propósitos. Esta capacidad de adaptación y personalización fomenta la creación de comunidades híbridas donde la interacción social se mezcla con la funcionalidad específica de cada servidor.
+
+## Conclusiones
+
+En conclusión, Discord se destaca como un ejemplo claro de hibridación digital, fusionando diferentes formas de medios y funciones en un solo espacio integrado. La aplicación va más allá de su origen centrado en los juegos, convirtiéndose en un ecosistema diverso que abarca desde comunidades de entusiastas de la tecnología hasta grupos de estudio. La convergencia de medios y la personalización de servidores son ejemplos tangibles de cómo Discord ha adoptado y avanzado en la idea de hibridación, creando un espacio digital rico y versátil para la interacción humana.
