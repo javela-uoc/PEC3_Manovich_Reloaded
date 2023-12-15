@@ -4,6 +4,8 @@
 
 En la era digital actual, las herramientas de software desempeñan un papel crucial en la evolución y expansión de la creatividad. Una aplicación que destaca en este panorama es **Autodesk Maya**, una potente herramienta utilizada en la industria de la animación y la creación de contenido digital.
 
+![Imagen de Discord](https://www.levelup.com/core/scripts/image_proxy.php?img=https://i.ytimg.com/vi/GKOHdUmW4d4/maxresdefault.jpg)
+
 ## Hibridación en el Contexto Digital
 
 Para comprender el impacto de Autodesk Maya, es fundamental explorar el concepto de hibridación en el ámbito digital. Lev Manovich, en su obra "El Software Toma el Mando", explora la idea de que la hibridación es inherente al desarrollo de software. Según Manovich, los programas de software no solo combinan funciones y características, sino que también influyen en la forma en que los usuarios interactúan con la tecnología y expresan su creatividad.
