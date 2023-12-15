@@ -53,7 +53,7 @@ Otra faceta donde se evidencia la hibridación en Autodesk Maya es en la incorpo
 ## Maya en la Industria Cinematográfica
 
 La influencia de Autodesk Maya va más allá de las capacidades individuales de un creador. La aplicación ha transformado la forma en que los profesionales colaboran en la industria cinematográfica. Al proporcionar una plataforma común para modelado, animación y efectos visuales, Maya facilita la colaboración fluida entre equipos multidisciplinarios, permitiendo la creación de producciones enormes.
-#¡Continuar por aqui!
+# ¡Continuar por aqui!
 ## Conclusión
 
 En conclusión, Autodesk Maya representa un claro ejemplo de hibridación en el ámbito del software de creación digital. La convergencia de capacidades de modelado 3D, animación, efectos visuales y simulación crea un entorno creativo integral. Siguiendo la perspectiva de Manovich, la hibridación en el software no solo se trata de la combinación de funciones, sino también de cómo estas herramientas influyen en la creatividad de los usuarios. Autodesk Maya, al proporcionar una plataforma versátil, impulsa la innovación y la expresión artística en el mundo digital.
