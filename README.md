@@ -26,8 +26,6 @@ En conclusión, Discord se destaca como un ejemplo claro de hibridación digital
 
 # Autodesk Maya y la Hibridación en la Creación Digital
 
-## Introducción
-
 En la era digital actual, las herramientas de software desempeñan un papel crucial en la evolución y expansión de la creatividad. Una aplicación que destaca en este panorama es **Autodesk Maya**, una potente herramienta utilizada en la industria de la animación y la creación de contenido digital.
 
 ![Imagen de Discord](https://www.levelup.com/core/scripts/image_proxy.php?img=https://i.ytimg.com/vi/GKOHdUmW4d4/maxresdefault.jpg)
