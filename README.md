@@ -38,7 +38,7 @@ En conclusión, Autodesk Maya representa un claro ejemplo de hibridación en el 
 
 En el mundo contemporáneo, la tecnología ha llevado a cabo cambios significativos en la forma en que nos comunicamos y nos conectamos en línea. Una aplicación que destaca en este panorama es Discord, una plataforma de chat y voz que ha experimentado una hibridación única en la convergencia de diferentes medios y funciones digitales. En este ensayo, exploraremos la aplicación Discord a la luz del concepto de hibridación presentado por Lev Manovich en su obra "El software toma el mando".
 
-![Alt text](https://unsplash.com/es/fotos/un-hombre-con-auriculares-sentado-en-un-escritorio-de-computadora-1IsH5qeKOqc "a title")
+![Imagen de Discord](https://lincsbikers.co.uk/wp-content/uploads/2018/02/discord-image.png)
 
 ## Hibridación según Manovich
 
