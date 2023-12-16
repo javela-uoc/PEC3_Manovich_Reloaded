@@ -20,9 +20,9 @@ La hibridación de medios en Discord se evidencia en la coexistencia armoniosa d
 
 Discord no solo se limita a la hibridación de medios, sino que también permite la hibridación social a través de la personalización de servidores. Los usuarios pueden crear servidores personalizados según sus necesidades, integrando canales de texto y voz para satisfacer diversos propósitos. Esta capacidad de adaptación y personalización fomenta la creación de comunidades híbridas donde la interacción social se mezcla con la funcionalidad específica de cada servidor.
 
-## Mi experiencia personal
+## Valoración Personal
 
-Por mi parte, discord ha sido y sigue siendo una herramienta de uso recurrente en varios aspectos de mi día a día, por un lado estaría el ambito del ocio donde uso este software para comunicarme con amigos o para usarlo como medio de comunicación mientras juego, en el lado opuesto, tendría el ambito laboral, donde discord me sirve como medio para llevar a cabo reuniones, intercambiar mensajes o compartir archivos.
+Por mi parte, discord ha sido y sigue siendo una herramienta de uso recurrente en varios aspectos de mi día a día, por un lado estaría el ambito del ocio donde uso este software para comunicarme con amigos o para usarlo como medio de comunicación mientras juego, en el lado opuesto, tendría el ambito laboral, donde discord me sirve como medio para llevar a cabo reuniones, intercambiar mensajes o compartir archivos. En mi opinión, Discord es un programa que ofrece todas las herramientas que necesita un usuario para conseguir una comunicación completa en todos los sentidos, y si bien, no es el más estandarizado, puede ser de los más completos.
 
 ## Conclusiones
 
@@ -54,9 +54,9 @@ Otra faceta donde se evidencia la hibridación en Autodesk Maya es en la incorpo
 
 La influencia de Autodesk Maya va más allá de las capacidades individuales de un creador. La aplicación ha transformado la forma en que los profesionales colaboran en la industria cinematográfica. Al proporcionar una plataforma común para modelado, animación y efectos visuales, Maya facilita la colaboración fluida entre equipos con diferentes roles, permitiendo la creación de producciones cinematográficas enormes.
 
-## Mi experiencia personal
+## Valoración Personal
 
-Por mi parte, Autodesk Maya es una herramienta que uso a diario para modelado 3D, y si bien, no necesito las funciones orientadas a animación 3D, es muy cómodo que estén integradas para trabajar en equipo. La principal ventaja de usar un software con esa variedad de funciones es que, sin necesidad de cambiar de aplicación, podemos realizar la producción completa.
+Por mi parte, Autodesk Maya es una herramienta que uso a diario para modelado 3D, y si bien, no necesito las funciones orientadas a animación 3D, es muy cómodo que estén integradas para trabajar en equipo. La principal ventaja de usar un software con esa variedad de funciones es que, sin necesidad de cambiar de aplicación, podemos realizar la producción completa. En mi opinión, Autodesk Maya es una de las herramientas más completas en el ambito de la producción 3D, ofreciendo todas las funcionalidades necesarias en este campo. A pesar de tener cada vez más competencia, Maya se mantiene como un estandar en la industria gracias a ser una herramienta híbrida.
 
 ## Conclusión
 
@@ -66,3 +66,9 @@ En conclusión, Autodesk Maya representa un claro ejemplo de hibridación en el 
 
 **Referencias:**
 - Manovich, L. (2013). *El Software Toma el Mando*. Bloomsbury Academic.
+- Wikipedia (2023). *Discord*. https://es.wikipedia.org/wiki/Discord
+- Xakata (2022). *Primeros pasos en Discord*. https://www.xataka.com/basics/primeros-pasos-discord-que-como-registrarte-como-crear-acceder-a-sus-servidores
+- Metricool (2021). *Que es Discord*. https://metricool.com/es/que-es-discord/
+- Wikipedia (2023). *Autodesk Maya*.https://es.wikipedia.org/wiki/Autodesk_Maya
+- U-tad (2022). *Autodesk Maya: El software de modelado 3D que debes conocer*. https://u-tad.com/autodesk-maya-el-software-de-modelado-3d-que-debes-conocer/
+- Arte Digital (2020). *Maya 3D*. https://artedigital.top/programas/maya/
