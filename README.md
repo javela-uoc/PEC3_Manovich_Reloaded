@@ -1,4 +1,4 @@
-#PEC 3 Cultura Digital
+# PEC 3 Cultura Digital
 ###### **Autor:** Jose Antonio Vela Alonso
 ###### **Fecha:** 17/12/2023
 
