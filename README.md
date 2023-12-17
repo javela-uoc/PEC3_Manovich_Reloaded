@@ -1,3 +1,8 @@
+#PEC 3 Cultura Digital
+###### **Autor:** Jose Antonio Vela Alonso
+###### **Fecha:** 17/12/2023
+
+
 # Discord
 
 En la actualidad, la tecnología ha llevado a cabo cambios importantes en la forma en que nos comunicamos y nos conectamos en con otras personas. Una aplicación que destaca en este aspecto es Discord, una plataforma de chat y voz que ha experimentado una hibridación única en la convergencia de diferentes medios y funciones digitales. En este ensayo, exploraremos la aplicación Discord a través del concepto de hibridación que nos presenta Lev Manovich en su libro "El software toma el mando".
