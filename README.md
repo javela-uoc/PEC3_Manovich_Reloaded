@@ -2,6 +2,9 @@
 ###### **Autor:** Jose Antonio Vela Alonso
 ###### **Fecha:** 17/12/2023
 
+#La Hibridación de Medios
+
+En este ensayo, trataremos el concepto de hibridación, tal y como propone Lev Manovich en su libro "El Software Toma el Mando". La hibridación, en el contexto digital, va más allá de la combinación de elementos; se trata de la convergencia y fusión de medios dentro de un entorno unificado. Manovich incita a estudiar cómo el software no solo incorpora funciones y características, sino que también afecta a la manera en que usamos con la tecnología.
 
 # Discord
 
